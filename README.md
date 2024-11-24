@@ -1,4 +1,4 @@
-#!usr/bin/ruby
+usr/bin/ruby
 geeks is the method name
 def num
 variables of method
